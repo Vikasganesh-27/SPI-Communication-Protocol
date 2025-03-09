@@ -81,7 +81,7 @@ A testbench is included to validate the SPI communication.
 - **Full-duplex communication**.
 
 ## License
-This project is **open-source** and **free to use** without restrictions.
+This project is licensed under MIT License
 
 ---
 
