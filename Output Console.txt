@@ -1,0 +1,28 @@
+[DRV] : RESET DONE
+-----------------------------------------
+[GEN] : din : 772
+[DRV] : DATA SENT TO DAC : 772
+[MON] : DATA SENT : 772
+[SCO] : DRV : 772 MON : 772
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 533
+run 10000 ns
+[DRV] : DATA SENT TO DAC : 533
+[MON] : DATA SENT : 533
+[SCO] : DRV : 533 MON : 533
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 1676
+run 10000 ns
+[DRV] : DATA SENT TO DAC : 1676
+[MON] : DATA SENT : 1676
+[SCO] : DRV : 1676 MON : 1676
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 1956
+[DRV] : DATA SENT TO DAC : 1956
+[MON] : DATA SENT : 1956
+[SCO] : DRV : 1956 MON : 1956
+[SCO] : DATA MATCHED
+-----------------------------------------
